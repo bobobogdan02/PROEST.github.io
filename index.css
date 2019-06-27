@@ -1,3 +1,6 @@
 .container10{
     position:sticky;
 }
+.navbar-nav{
+    padding-left:70% !important;
+}
